@@ -20,20 +20,6 @@ Additional Resources i've used:
 - JSON Server [Here](https://github.com/typicode/json-server)
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Resources
-
-Main resource was this awesome video from Traversy Media on Youtube:
-React JS Crash Course 2021 [Youtube](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-
-Additional Resources i've used:
-How to use Git inside of VSCode [Youtube](https://www.youtube.com/watch?v=F2DBSH2VoHQ)
-The Beginner's guide to React [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) (it's a free course, and it's great!)
-Official React [Here](https://reactjs.org/)
-Official React Router [Here](https://reactrouter.com/)
-
-Development Tools
-JSON Server [Here](https://github.com/typicode/json-server)
-
 ## Available Scripts
 
 In the project directory, you can run:
